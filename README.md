@@ -1,5 +1,4 @@
 # hello-world
-JHU Data Science Specialization
 
 What up world.
 
